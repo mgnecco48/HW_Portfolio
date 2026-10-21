@@ -10,4 +10,4 @@ It is served from a VPS i "own". I am also learning about self-hosting, so I am 
 
 I hope this ends up being a place where I can actually communicate what I like, what I am learning and to share cool things i build, when I actually manage to build them 😂.
 
-If everything goes well, this site will be available at `martingneccoh.dev` and `martingneccoh.io`
+If everything goes well, this site will be available at [martingneccoh.dev](martingneccoh.dev) and [martingneccoh.io](martingneccoh.io)
